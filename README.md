@@ -13,17 +13,17 @@ This repository contains Python implementations of one-dimensional cellular auto
 
 2. Five-Neighbor Cellular Automaton (FiveCellAutomaton.py)
 
-1 - Expands the neighborhood to include two additional neighbors on each side.
-2 - Supports a larger rule space (32 possible neighborhood configurations).
-3 - Produces more intricate and varied patterns compared to the three-neighbor version.
+-  Expands the neighborhood to include two additional neighbors on each side.
+-  Supports a larger rule space (32 possible neighborhood configurations).
+-  Produces more intricate and varied patterns compared to the three-neighbor version.
 
 # Further Experiments
 For an in-depth analysis of the behaviors and classifications of different cellular automata, please refer to my paper: Experimenting with Cellular Automata.
 The paper explores:
 
-1- Theoretical background of cellular automata.
-2- Various rule sets and their classifications.
-3- Experimental results for both three-neighbor and five-neighbor automata.
+-  Theoretical background of cellular automata.
+-  Various rule sets and their classifications.
+-  Experimental results for both three-neighbor and five-neighbor automata.
 # Running the Simulations
 To run the simulations, execute the respective Python files in your command prompt for better results.
 
