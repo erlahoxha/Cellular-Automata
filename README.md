@@ -1,6 +1,4 @@
-# Cellular-Automata
-Experimenting Cellular Automata with three and five neighborhoods
-
+## Cellular-Automata
 # Overview
 This repository contains Python implementations of one-dimensional cellular automata with three and five neighborhood rules. Cellular automata (CA) are simple computational systems that evolve over discrete time steps based on predefined rule sets. The two implementations provided here explore different rule sets and their effects on pattern generation.
 For an in-depth analysis of the behaviors and classifications of different cellular automata, please refer to my paper: Experimenting with Cellular Automata.
