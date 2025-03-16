@@ -7,9 +7,9 @@ This repository contains Python implementations of one-dimensional cellular auto
 # Implementations
 1. Three-Neighbor Cellular Automaton (CellularAutomaton.py)
 
-1 - Uses a one-dimensional grid where each cell has two neighbors (left and right).
-2 - Implements a rule set similar to Wolfram’s elementary CA.
-3 - Generates complex patterns such as the Sierpiński triangle.
+- **1** Uses a one-dimensional grid where each cell has two neighbors (left and right).
+- **2** Implements a rule set similar to Wolfram’s elementary CA.
+- **3** Generates complex patterns such as the Sierpiński triangle.
 
 2. Five-Neighbor Cellular Automaton (FiveCellAutomaton.py)
 
